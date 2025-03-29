@@ -21,7 +21,7 @@ A Shiny web application that simulates real-time bus tracking along Broadway in 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/bus-tracker.git
+git clone https://github.com/GithubSolver123/bus-tracker.git
 cd bus-tracker
 ```
 
